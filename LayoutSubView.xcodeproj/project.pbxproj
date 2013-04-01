@@ -18,6 +18,11 @@
 		90A809EE1709A89800D54089 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 90A809ED1709A89800D54089 /* Default-568h@2x.png */; };
 		90A809F11709A89800D54089 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A809F01709A89800D54089 /* ViewController.m */; };
 		90A809F41709A89800D54089 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90A809F21709A89800D54089 /* ViewController.xib */; };
+		90A809FF1709AEFE00D54089 /* troll1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90A809FA1709AEFE00D54089 /* troll1.jpg */; };
+		90A80A001709AEFE00D54089 /* troll2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90A809FB1709AEFE00D54089 /* troll2.jpg */; };
+		90A80A011709AEFE00D54089 /* troll3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90A809FC1709AEFE00D54089 /* troll3.jpg */; };
+		90A80A021709AEFE00D54089 /* troll4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90A809FD1709AEFE00D54089 /* troll4.jpg */; };
+		90A80A031709AEFE00D54089 /* troll5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90A809FE1709AEFE00D54089 /* troll5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,11 @@
 		90A809EF1709A89800D54089 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		90A809F01709A89800D54089 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		90A809F31709A89800D54089 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		90A809FA1709AEFE00D54089 /* troll1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll1.jpg; sourceTree = SOURCE_ROOT; };
+		90A809FB1709AEFE00D54089 /* troll2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll2.jpg; sourceTree = SOURCE_ROOT; };
+		90A809FC1709AEFE00D54089 /* troll3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll3.jpg; sourceTree = SOURCE_ROOT; };
+		90A809FD1709AEFE00D54089 /* troll4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll4.jpg; sourceTree = SOURCE_ROOT; };
+		90A809FE1709AEFE00D54089 /* troll5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll5.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +106,11 @@
 		90A809DE1709A89800D54089 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				90A809FA1709AEFE00D54089 /* troll1.jpg */,
+				90A809FB1709AEFE00D54089 /* troll2.jpg */,
+				90A809FC1709AEFE00D54089 /* troll3.jpg */,
+				90A809FD1709AEFE00D54089 /* troll4.jpg */,
+				90A809FE1709AEFE00D54089 /* troll5.jpg */,
 				90A809DF1709A89800D54089 /* LayoutSubView-Info.plist */,
 				90A809E01709A89800D54089 /* InfoPlist.strings */,
 				90A809E31709A89800D54089 /* main.m */,
@@ -163,6 +178,11 @@
 				90A809EC1709A89800D54089 /* Default@2x.png in Resources */,
 				90A809EE1709A89800D54089 /* Default-568h@2x.png in Resources */,
 				90A809F41709A89800D54089 /* ViewController.xib in Resources */,
+				90A809FF1709AEFE00D54089 /* troll1.jpg in Resources */,
+				90A80A001709AEFE00D54089 /* troll2.jpg in Resources */,
+				90A80A011709AEFE00D54089 /* troll3.jpg in Resources */,
+				90A80A021709AEFE00D54089 /* troll4.jpg in Resources */,
+				90A80A031709AEFE00D54089 /* troll5.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
